@@ -2,7 +2,7 @@ ruby '>= 2.6.6'
 
 source "https://rubygems.org"
 
-gem "jekyll", "~> 3.9"
+gem "jekyll", "~> 4.3"
 
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
